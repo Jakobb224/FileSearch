@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=filesearch
+Exec=filesearch
+Icon=org.gnome.FSearch
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true
