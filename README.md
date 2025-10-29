@@ -1,3 +1,3 @@
 # filesearch
 
-A description of this project.
+A File/Folder search dialog in gtk4 an libadwaita design. Under the GNU GENERAL PUBLIC LICENSE V3. 
